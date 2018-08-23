@@ -1,0 +1,26 @@
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+h1 {
+  font-family: inherit;
+  font-weight: normal;
+  color:inherit;
+  text-align: inherit;
+}
+h2 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 42px
+}
+p {
+  font-family: inherit;
+  font-size: 21px;
+  color: gray;
+}
+.cta {
+  color: Aquamarine;
+  font-size: 16px;
+}
