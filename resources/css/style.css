@@ -1,24 +1,23 @@
-body {
-  font-family: Verdana, sans-serif;
-  text-align: center;
+.background {
   background-color: black;
-  color: white;
 }
 h1 {
-  font-family: inherit;
+  font-family: Verdana, sans-serif;
   font-weight: normal;
-  color:inherit;
-  text-align: inherit;
+  color:white;
+  text-align: center;;
 }
 h2 {
-  font-family: inherit;
+  font-family: Verdana, sans-serif;
   font-weight: 300;
-  font-size: 42px
+  font-size: 42px;
+  text-align: center;
 }
 p {
-  font-family: inherit;
+  font-family: Verdana, sans-serif;
   font-size: 21px;
   color: gray;
+  text-align: center;
 }
 .cta {
   color: Aquamarine;
